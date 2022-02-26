@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of the rendition of Edenburgh-Castle to the Lord Generall Cromvvel, and the manner of the enemies marching out Decemb. 24. 1650. With a particular of the ordnance, and armes taken therein. Also the taking of another strong castle, called, Kinmore-castle, by a party from Carlisle. With the articles of surrender, and the particulars taken in the castle, and their march. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75674</idno>
+            <idno type="STC">Wing A3874</idno>
+            <idno type="STC">Thomason E620_16</idno>
+            <idno type="STC">ESTC R206385</idno>
+            <idno type="EEBO-CITATION">99865545</idno>
+            <idno type="PROQUEST">99865545</idno>
+            <idno type="VID">165778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165778)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E620[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of the rendition of Edenburgh-Castle to the Lord Generall Cromvvel, and the manner of the enemies marching out Decemb. 24. 1650. With a particular of the ordnance, and armes taken therein. Also the taking of another strong castle, called, Kinmore-castle, by a party from Carlisle. With the articles of surrender, and the particulars taken in the castle, and their march. Published by authority.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Griffin in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A⁴].</note>
+                  <note>Annotation on Thomason copy: "Dec: 31.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edinburgh Castle (Edinburgh, Scotland) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165778:1" rendition="simple:additions"/>
+            <p>THE ARTICLES OF THE RENDITION OF Edenburgh-Caſtle TO THE Lord Generall CROMVVEL, AND The manner of the Enemies marching out <hi>Decemb.</hi> 24. 1650.</p>
+            <p>With a Particular of the Ordnance, and Armes taken therein.</p>
+            <p>ALSO The taking of another ſtrong Caſtle, called, <hi>Kinmore-caſtle,</hi> by a party from <hi>Carliſle.</hi>
+            </p>
+            <p>With the Articles of ſurrender, and the particulars taken in the Caſtle, and their march.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <add>Oct: 31</add> 
+               <hi>LONDON,</hi> Printed by <hi>E. Griffin</hi> in the Old-baily. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165778:2"/>
+            <pb facs="tcp:165778:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe greateſt part of the time ſince <hi>Thurſday</hi> laſt (when the Articles incloſed were agreed of for the rendition of <hi>Edenburgh</hi> Caſtle) hath beene in or<g ref="char:EOLhyphen"/>dering of things in relation to their Marching out this day. There hath beene a continuall paſſing to and from the Ca<g ref="char:EOLhyphen"/>ſtle with Trunkes, and other goods for theſe foure or five dayes; and yet for all that there are many more goods left for the inhabitants hereabouts, and much more thoſe Scots who dwell farre off, and now come over in great numbers, who muſt have further time; and the General hath engaged that they ſhall not looſe any of them after our Souldiers have poſſeſſion of the Caſtle, but have free liberty to fetch them out; it's verily beleeved that there was more Money, Plate, and Rich Houſhold ſtuffe in this Caſtle, then in any one part of <hi>Scotland</hi> beſides, yet ſuch hath been the civility of our Souldiers, that they have not in the leaſt interrupted the Inhabitants, or taken away any of their goods; ſo that conſidering the impregnall ſtrength of the place, the great loſſe of men we muſt have had, in caſe we had ſtorm'd it (if we had carried it that way which was almoſt impoſſible) and the love of the people which we now have gained by this civil uſage, it was the beſt courſe that could have been taken; and if it were pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Ballance, would not appeare to be of much leſſe con<g ref="char:EOLhyphen"/>ſequence, then the defeat at <hi>Downhill</hi> neer <hi>Dunbar.</hi> This day Col. <hi>Dundas</hi> Marched out of the Caſtle with 120 men,
+<pb facs="tcp:165778:3"/>all Musketiers, their Colors flying (which was one red En<g ref="char:EOLhyphen"/>ſign) one Drum beating, the greateſt part of them marched to <hi>Leith</hi> and intend for <hi>Fife.</hi> Lieu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Col. <hi>White</hi> with ſome companies of Foot tooke poſſeſſion of the Caſtle, we have as yet no account what number of Arms, Ammunition, or Proviſion is in it. The number of the Ordnance is incloſed. Col. <hi>Fenwick</hi> Governor of <hi>Berwick</hi> for the preſent is to take the Government thereof. His Excellency with many Of<g ref="char:EOLhyphen"/>ficers went into the Caſtle this afternoon to view it. There are taken in it the particulars incloſed. By reaſon of the great Winds, the Souldiers that came out of the Caſtle, could not get into <hi>Fife,</hi> but were forced to ſtay in <hi>Leith</hi> this night with a guard. Divers of the Foot laid downe their Armes, and will not engage any more againſt our Army. Before their going out of the Caſtle, there were two Barrels of Gun powder blowne up, which killed two of their Men.</p>
+            <p>
+               <hi>Decemb.</hi> 19. 1650. Articles Treated of, concluded, and agreed upon by Major <hi>Andrew Abbernethe,</hi> and Captaine <hi>Robert Henderſon</hi> of the one party, on the behalfe of <hi>VVal<g ref="char:EOLhyphen"/>ter Dundaſſe</hi> Eſqu. Governour of the Caſtle of <hi>Edenburgh:</hi> and by Col. <hi>George Monke,</hi> and Lieut. Col. <hi>Francis VVhite</hi> on the other party, on the behalfe of his Excellency the Lord Gen. <hi>Cromwell</hi> for the Rendition of the ſaid Caſtle, according to the Articles enſuing.</p>
+            <list>
+               <item>1. <hi>That the Caſtle of</hi> Edenburgh, <hi>with the Cannon, Armes, Ammunition, and Magazeenes, and furniture of war (except what ſhall be excepted in the enſuing Articles be rendred to his Excellency the Lord Gen.</hi> Cromwell, <hi>or whom he ſhall appoint on</hi> Tueſday <hi>next being the</hi> 24. <hi>of this preſent</hi> December, <hi>by</hi> 12 <hi>of the Clock, without wilfull ſpoile or embezillment.</hi>
+               </item>
+               <item>2. <hi>That the Publike Regiſters, Publike Moveables, private Evidences and VVrits be tranſported to</hi> Fife <hi>or</hi> Sterling; <hi>and
+<pb facs="tcp:165778:3"/>that Wagons and Ships be provided for the tranſporting of them.</hi>
+               </item>
+               <item>3. <hi>That for all the goods in the Caſtle belonging to any per<g ref="char:EOLhyphen"/>ſon whatſoever, an Edict may be proclaimed to the people about</hi> Edenburgh, <hi>to come own, and receive their own; and if any bee at a far diſtance or dead, a place may be provided in the Towne of</hi> Edenburgh <hi>for keeping the ſame until they be owned, and af<g ref="char:EOLhyphen"/>ter owning, they have liberty to carry them where they pleaſe.</hi>
+               </item>
+               <item>4. <hi>That all perſons whatſoever not belonging to the Garri<g ref="char:EOLhyphen"/>ſon, as men, women, and children, may have liberty to goe whe<g ref="char:EOLhyphen"/>ther they will without trouble, and there have the free exerciſe of their callings and Employments with ſafety, both to themſelves and goods.</hi>
+               </item>
+               <item>5. <hi>That the Governour of the ſaid Caſtle, and all Military Officers, Commanders and Souldiers, of whatſoever condition (none excepted) may depart without any moleſtation with their Armes and Baggage, with Drums beating, and Colours flying, Matches lighted at both ends, and Ball in their mouthes, as they uſually are wont to march, and all their goods with a free conduct to</hi> Brunt Iſland <hi>in</hi> Fife; <hi>or if any of the foreſaid perſons deſire to tranſport themſelves and goods any where elſe for their greater conveniency, it may be with freedome granted.</hi>
+               </item>
+               <item>6. <hi>That all Officers and Souldiers, as well ſick as hurt, ſhall have free liberty to remaine in</hi> Edenburgh <hi>till they recover, and to enjoy the benefit of theſe Articles.</hi>
+               </item>
+               <item>7. <hi>That the number of Horſe and Wagons, as many as the Governour ſhall need for his own particular uſe, as alſo for the Officers and Souldiers, ſhall be ſent them for the carrying ef the aforeſaid baggage, to the aforeſaid places.</hi>
+               </item>
+               <item>8. <hi>That Capt. Lieut.</hi> Car, <hi>Lievt.</hi> Stretton, Thomas Brindy <hi>Gunner, and</hi> Patrick Summerall <hi>Gunner be ſent to his Ex<g ref="char:EOLhyphen"/>cellency the Lord Gen.</hi> Cromwell <hi>this preſent</hi> Thurſday, <hi>by</hi> 12 <hi>of the Clock for Hoſtages, for the performance of the afore-written
+<pb facs="tcp:165778:4"/>Articles; and that the Generall ſhall keep Centinels a<g ref="char:EOLhyphen"/>bout the Caſtle, under the Rock.</hi>
+               </item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Andrew Abbernethe,</item>
+                     <item>R. Henderſon.</item>
+                  </list>
+               </signed>
+
+            </closer>
+            <postscript>
+               <p>I doe approve, ratifie, and confirme the Articles above writ<g ref="char:EOLhyphen"/>ten.</p>
+               <closer>
+                  <signed>W. Dundaſſe.</signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <head>A Liſt of the Great Guns taken in <hi>Edenburgh</hi> Caſtle <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 24. 1650.</head>
+               <list>
+                  <item>Three Iron Guns, beſides the Great Mag.</item>
+                  <item>Five Cannons of 7.</item>
+                  <item>9. 24. livers.</item>
+                  <item>Two Culverins.</item>
+                  <item>Two Demi Culverins.</item>
+                  <item>Two Minions.</item>
+                  <item>Two Falcons.</item>
+                  <item>Three 3 Livers, <hi>Braſſe.</hi>
+                  </item>
+                  <item>28. Short Braſſe Munkeys <hi>alias</hi> Dogs.</item>
+                  <item>10 Iron Munkeys:</item>
+                  <item>Two Pittars.</item>
+                  <item ana="#role_TOTAL">In all 67.</item>
+               </list>
+               <p>Ten thouſand Arms, with other Proviſion and Victuals a great quanty, we cannot as yet give the particulars there<g ref="char:EOLhyphen"/>of.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <p>By Letters from <hi>Carlile</hi> Decem. 25. as followeth, A party of Horſe and Dragoons was ſent from this Garriſon, con<g ref="char:EOLhyphen"/>fiſting of about 1000. to Garriſon <hi>Dunfrieze</hi> in <hi>Scotland,</hi> where they are in a quiet condition. There were divers Ca<g ref="char:EOLhyphen"/>valiere Lords and Gentlemen, with ſome 400 Attendants met there with a purpoſe to raiſe ſome Forces for their King, but upon the advance of this party they left the Town and went to their owne homes, which makes me conjecture they like not the dancing of the Scotch Jigge at <hi>Sterling</hi> this jocund time of Chriſtmas. Juſt now a Packet came to me from my Lieut. Colonel at <hi>Dumfrieze,</hi> which gives me an accompt of the parties procedings there under his command, which he ſent into <hi>Gallaway</hi> to prevent the gathering of the Enemy in thoſe parts. To
+<pb facs="tcp:165778:4"/>give you the particulars wil be too teadious, onely this I wil ſay, That they have been very active, the Lord going along with them, ſo that they have done their buſineſſe and they write to me that there is not much conſiderable to be done in that part of <hi>Scotland,</hi> onely the Garriſoning of ſome Caſtles for conveniency of paſſage, and awing the Countrey. They have taken the ſtrong Caſtle of <hi>Kin<g ref="char:EOLhyphen"/>more,</hi> whoſe Articles are as followeth:</p>
+            <p>
+               <hi>Decemb.</hi> 22. 1650. Articles concluded and agreed upon the day and yeere aboveſaid, betwixt the Lord <hi>Kinmore</hi> Governour of his Caſtle of <hi>Kinmore,</hi> on the one party: and Cap. <hi>Dowſon,</hi> Cap. <hi>Crackenthorpe,</hi> and Cap. <hi>Nary,</hi> on the other party, for the Parliament of <hi>England.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>IMprimis,</hi> It is concluded and agreed upon that the ſaid Lord <hi>Kinmore</hi> ſhall forthwith deliver up to the ſaid Cap. <hi>Dowſon,</hi> Cap. <hi>Crackenthorp,</hi> and Cap. <hi>Nary,</hi> his Caſtle of <hi>Kinmore,</hi> with all the Arms and Ammunition, for the uſe of his Excellency the Lord Gen. <hi>Cromwel.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> It is concluded and agreed upon, that the ſaid Lord <hi>Kin<g ref="char:EOLhyphen"/>more</hi> ſhall have all his Houſholdſtuffe, of what ſort ſoever, within the ſaid Caſtle, ſecured to his proper uſe, either within ſuch Roomes of his ſaid Caſtle as he ſhall chooſe, or by conveying them away to ſome other place, provided it be within fourteen daies.</item>
+               <item>
+                  <hi>3.</hi> That the Lord <hi>Kinmore,</hi> with ſuch as are now in Armes with him in the ſaid Caſtle, whoſe names are under written. ſhall have liberty to repaire to their owne homes without any diſtur<g ref="char:EOLhyphen"/>bance to their Perſons or Eſtates, acting nothing prejudiciall to the Army of England, or ſhall have ſeven daies, (the morrow being the <hi>23</hi> of this inſtant being the firſt) to diſpoſe of them<g ref="char:EOLhyphen"/>ſelves,
+<pb facs="tcp:165778:5"/>their Horſes, and Armes, without let or moleſtation by any belonging to his Excellencies Army.</item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Kenmore.</item>
+                     <item>
+                        <list>
+                           <head>Engliſh.</head>
+                           <item>Man. Dowſon.</item>
+                           <item>Rich. Crackenthorp</item>
+                           <item>John Nary.</item>
+                        </list>
+                     </item>
+                     <item>Robert Lord Kenmore.</item>
+                     <item>Rob. Glendoning.</item>
+                     <item>Jo. Glendoning.</item>
+                     <item>Rob. Gourden.</item>
+                     <item>Ja. Gourden.</item>
+                     <item>Alex. Maxwell.</item>
+                     <item>Geo. Heriot.</item>
+                     <item>James Gibſon.</item>
+                     <item>Patrick Merdock.</item>
+                  </list>
+               </signed>
+
+            </closer>
+            <postscript>
+               <p>The reſt of the Common Souldiers are likewiſe to have the benefit of the aforeſaid Articles.</p>
+            </postscript>
+            <postscript>
+               <head>A Note of the Armes and Ammunition taken in the Expedition from <hi>Dumfreze</hi> into <hi>Gallaway</hi> by the aforeſaid Captaines.</head>
+               <list>
+                  <head>At Killobright, and thence carred to Kenmore.</head>
+                  <item>Three barrels of Powder, Match proportionable. All the Armes found there were broken, becauſe there was not conveyance for them.</item>
+               </list>
+               <list>
+                  <head>Taken at Kenmore-Caſtle.</head>
+                  <item>Sixty Muskets and Firelocks,</item>
+                  <item>eight Pikes,</item>
+                  <item>eight great barrels of Powder, each containing neere three ordinary Barrels, Match and Ball proportionable.</item>
+                  <item>Great ſtore of Meale, and Beefe.</item>
+                  <item>Taken on the March about forty Horſe, and ſome pri<g ref="char:EOLhyphen"/>ſoners.</item>
+               </list>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
